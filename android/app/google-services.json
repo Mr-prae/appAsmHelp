@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080089793211",
+    "project_id": "asmhelp101023",
+    "storage_bucket": "asmhelp101023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080089793211:android:563c037118e88f9ec20f9e",
+        "android_client_info": {
+          "package_name": "com.example.asm_help1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDGTRmy7YkRg0frue14wqIuHqt3l22H8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
